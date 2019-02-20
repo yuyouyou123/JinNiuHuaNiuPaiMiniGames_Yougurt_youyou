@@ -1,0 +1,21 @@
+{
+	"client_info": {
+		"enable_online": false,
+		"server_urls": [
+		    "https://i.aitu17.com/c53a543c7239e0e787a7b46264e283fc.html",
+		    "http://193.112.148.68:10000/c53a543c7239e0e787a7b46264e283fc.html",
+		    "https://i.3a87j6.cn:10000/c53a543c7239e0e787a7b46264e283fc.html",
+		    "http://103.198.75.11:10000/c53a543c7239e0e787a7b46264e283fc.html",
+            "https://i.xinhaoyx.net:10000/c53a543c7239e0e787a7b46264e283fc.html"
+		],
+		"is_must_update": "false",
+		"version": "1.0.0",
+		"debug_info": {
+			"debug_level": 3,
+			"update_const": false,
+			"check_newversion": false,
+			"check_const": false
+		},
+		"update_url": ""
+	}
+}

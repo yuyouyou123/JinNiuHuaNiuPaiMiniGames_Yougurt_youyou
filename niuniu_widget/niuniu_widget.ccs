@@ -1,0 +1,49 @@
+<Solution>
+  <PropertyGroup Name="niuniu_widget" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="image">
+          <Folder Name="help">
+            <Image Name="ndn_close.png" />
+            <Image Name="ndn_help.png" />
+            <Image Name="ndn_help2.png" />
+          </Folder>
+          <Folder Name="ico">
+            <Image Name="1.png" />
+            <Image Name="10.png" />
+            <Image Name="11.png" />
+            <Image Name="12.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="7.png" />
+            <Image Name="8.png" />
+            <Image Name="9.png" />
+            <Image Name="niubei.png" />
+          </Folder>
+          <Image Name="beijing.png" />
+          <Image Name="biankuang.png" />
+          <Image Name="biankuang2.png" />
+          <Image Name="fanhui.png" />
+          <Image Name="heiniu.png" />
+          <Image Name="help.jpg" />
+          <Image Name="hongniu.png" />
+          <Image Name="lanxuetiao.png" />
+          <Image Name="lvxuetiao.png" />
+          <Image Name="ndn_button1.png" />
+          <Image Name="ndn_button2.png" />
+          <Image Name="ndn_button3.png" />
+          <Image Name="ndn_button4.png" />
+          <Image Name="ndn_logo.png" />
+          <Image Name="shu.png" />
+          <Image Name="vs.png" />
+          <Image Name="ying.png" />
+        </Folder>
+        <Project Name="niudniuScene.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
